@@ -13,3 +13,9 @@ tmp/
 *.key
 auth.json
 credentials*
+# Private conversion recipes and generated task bundles
+recipe.json
+export/
+exports/
+bundles/
+evidence/
