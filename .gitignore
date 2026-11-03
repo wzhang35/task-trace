@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.task-trace.json
+.task-trace/
+archives/
+archive/
+raw/
+objects/
+tmp/
+.env*
+*.pem
+*.key
+auth.json
+credentials*
